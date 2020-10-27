@@ -2,7 +2,7 @@
 home: true
 heroImage: https://images.shiguangping.com/imgs/20200905230153.jpg
 actionText: 现在开始 →
-actionLink: /javase1/jdk-introduce
+actionLink: /d1/dart
 features:
 - title: 持续学习
   details: 随着学习进度持续更新，并持续修正和完善内容，保持本作品的活力。

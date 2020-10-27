@@ -10,7 +10,7 @@ module.exports = {
         lineNumbers: true // 代码块显示行号
     },
     themeConfig: {
-        sidebarDepth: 0, // e'b将同时提取markdown中h2 和 h3 标题，显示在侧边栏上。
+        sidebarDepth: 2, // e'b将同时提取markdown中h2 和 h3 标题，显示在侧边栏上。
         lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
         // 顶部栏
         nav: [
@@ -19,37 +19,20 @@ module.exports = {
             {
                 text: '代码仓库',
                 items: [
-                    {text: 'GitHub', link: 'https://github.com/OBKoro1'},
-                    {text: 'Gitee', link: 'https://github.com/OBKoro1/Brush_algorithm'}
+                    {text: 'GitHub', link: 'https://github.com/ENNRIaaa'},
+                    {text: 'Gitee', link: 'https://gitee.com/ENNRIAAA'}
                 ]
             }
         ],
         // 侧边栏
         sidebar: [
             {
-                title: 'JavaSE',
+                title: 'Dart',
                 collapsable: false,
                 children: [
-                    {
-                        title: '搭建开发环境',
-                        collapsable: false,
-                        children: [
-                            ['/javase1/jdk-introduce','什么是JDK？'],
-                            ['/javase1/jdk-install','安装JDK'],
-                            ['/javase1/set-environment-variable','配置环境变量'],
-                            ['/javase1/ide','集成开发环境'],
-                            ['/javase1/hello-world','编写Hello World'],
-                            ['/javase1/function-main','程序的入口-main'],
-                        ]
-                    },
-                    ['/javase2/java-annotation','Java注释格式']
-
+                    ['/d1/dart', 'Dart编程语言概览'],
                 ]
             },
-            {
-                title: 'Mysql数据库',
-                collapsable: false
-            }
         ]
     }
 }
