@@ -18,17 +18,9 @@
     <list default="true" id="087f370d-b1c5-4096-b9c9-5c74f716ce06" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/0.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/global-components-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/app-enhancers/global-components-7.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/app-enhancers.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/app-enhancers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/layout-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/layout-components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/page-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/page-components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/root-mixins.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/root-mixins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/siteData.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/internal/siteData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vuepress/core/.temp/style.styl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +65,7 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.docs:dev">
+  <component name="RunManager" selected="npm.docs:build">
     <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -100,8 +92,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.docs:dev" />
         <item itemvalue="npm.docs:build" />
+        <item itemvalue="npm.docs:dev" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +110,7 @@
       <workItem from="1603761903956" duration="873000" />
       <workItem from="1603776444934" duration="18000" />
       <workItem from="1603776477468" duration="633000" />
+      <workItem from="1603778926444" duration="337000" />
     </task>
     <servers />
   </component>
