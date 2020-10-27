@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Java阶段性学习笔记',
+    title: 'Flutter学习笔记',
     description: 'Just playing around',
     // 注入到当前页面的 HTML <head> 中的标签
     head: [

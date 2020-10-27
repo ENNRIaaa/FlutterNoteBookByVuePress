@@ -9,7 +9,7 @@ features:
 - title: 我要说
   details: 笔记内容不保证通俗易懂，我只是把学到的知识用自己的语言、代码、贴图展现出来，只希望能帮助到有需要的人。
 - title: 编辑自
-  details: 本作品采用VuePress于2020年4月21日创建。
+  details: 本作品采用VuePress于2020年10月26日创建。
 footer: MIT Licensed | Copyright © 2020-present LiYan
 ---
 
