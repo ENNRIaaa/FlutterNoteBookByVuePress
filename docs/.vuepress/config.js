@@ -32,7 +32,7 @@ module.exports = {
                 children: [
                     ['/d1/dart', 'Dart编程语言概览'],
                 ]
-            },
+            }
         ]
     }
 }
