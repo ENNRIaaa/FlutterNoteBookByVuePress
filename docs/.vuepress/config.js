@@ -30,7 +30,8 @@ module.exports = {
                 title: 'Dart',
                 collapsable: false,
                 children: [
-                    ['/d1/dart', 'Dart编程语言概览'],
+                    ['/d1/dart', 'Dart 编程语言概览'],
+                    ['/d1/d1', 'Dart 入门'],
                 ]
             }
         ]
